@@ -8,4 +8,4 @@ You need to help Unicorn ventures with the decision. They usually invest in B2C 
 
 ## Evaluation Metric:
 
-Root Mean Squre Error (RMSE) is the evaluation metric for this contest
+Root Mean Squre Error (RMSE) is the evaluation metric for this problem.
